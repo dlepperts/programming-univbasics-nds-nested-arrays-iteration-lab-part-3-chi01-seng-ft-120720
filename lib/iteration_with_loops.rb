@@ -11,7 +11,7 @@ def join_nested_strings(src)
     end
     row_index += 1 
   end
-print total
+print total.join(" ")
 end
 
 mixed_data = [
