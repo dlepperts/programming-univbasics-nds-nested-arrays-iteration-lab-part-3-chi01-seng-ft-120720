@@ -20,4 +20,4 @@ mixed_data = [
   ["studied", 101, 233, "Ruby"]
 ]
 
-join_nested_strings(guessing_game_grid)
+join_nested_strings(mixed_data)
